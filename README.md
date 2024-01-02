@@ -1,1 +1,1 @@
-Machine Lear
+Machine Learn
