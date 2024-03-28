@@ -1,1 +1,1 @@
-Machine Learning Proje
+Machine Learning Projec
